@@ -12,7 +12,7 @@ class Window(QWidget):
         self.setMinimumWidth(250)
  
  
-myApp = QApplication(sys.argv)
+myApp = QApplication(sys.argv)# define argument value is that 4 or only 1
 window = Window()
 window.show()
  
