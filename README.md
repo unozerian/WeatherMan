@@ -1,10 +1,6 @@
 # WeatherMan
-A UI for reading DHT11 data from ESP8266 (NodeMCU)
 
-# The Plan
-The idea of having a portable Weather station which is running on Solar is intresting.
-That's it.
-THat's the Project.
+main.py, dht11.py, data.txt //code for esp8266
+-the data in data.txt is appended, so make sure to clear the file when starting to record fresh data
 
-# How
-I am planning to use Pyplot to draw graphs in the QT window
+temp.py, temp.txt //code for graph generation on computer
