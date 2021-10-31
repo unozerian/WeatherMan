@@ -4,7 +4,7 @@ import ujson
 import dht 
 
 sensor = dht.DHT11(Pin(14))
-
+# THis function will collect the details from the sensor and add it to the data text file
 def temp_func():
 	while True:
 		try:
