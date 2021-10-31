@@ -6,3 +6,4 @@ main.py, dht11.py, data.txt //code for esp8266
 temp.py, temp.txt //code for graph generation on computer
 
 WeatherMan.py //the main with UI and basic functionality
+THis will soon be merged with Some other project
