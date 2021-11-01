@@ -10,6 +10,6 @@ WeatherMan.py //the main with UI and basic functionality
 
 
 
-
-
 The Project will be discontunued and will be made with better components and cheap code.
+THis will soon be merged with Some other project
+
