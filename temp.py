@@ -1,3 +1,4 @@
+#a temp ui for qt based implimentation with matplot lib to show graphs
 import sys
 import matplotlib
 import json
